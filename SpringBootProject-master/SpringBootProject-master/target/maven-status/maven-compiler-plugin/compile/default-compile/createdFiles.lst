@@ -1,0 +1,6 @@
+com\service\AppService.class
+com\entity\Feedback.class
+com\example\springcore\SpringcoreApplication.class
+com\dao\MyRepo.class
+com\controller\FeedbackController.class
+com\controller\MyRestApp.class
